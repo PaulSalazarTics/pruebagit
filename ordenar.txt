@@ -4,3 +4,5 @@ ingresar el vector
 cofificando en c++
 cuerpo de la funcion
 fin de la funcion
+
+Codificando funcion para inprimir los resultados
